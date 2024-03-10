@@ -1,0 +1,39 @@
+#Barra {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    width: 100%;
+    
+}
+
+#Esquerdo, #Direito {
+    padding: 5px;
+}
+.margem{
+    margin: 0;
+}
+
+.imagem{
+    width: 100%;
+}
+.Subtitulo{
+    text-align: center;
+    color:white;
+    font-size: 40px;
+    font-family: Impact;
+}
+.fundo{
+    background-color: black;
+    padding: 10px 10px 10px 10px;
+}
+.imagemdois{
+    text-align: center;
+    width: 100%;
+}
+.Alinhamento{
+    display: flex;
+    padding: 50px;
+    background-color: black;
+}
